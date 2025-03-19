@@ -1,4 +1,4 @@
-# C
+# Mis proyectos hechos en C
 
 ## 🎒 Libft
 ► [Recreémos algunas librerias estándar de C](https://github.com/gjmacias/libft)
